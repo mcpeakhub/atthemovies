@@ -1,6 +1,6 @@
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Logo from "../assets/logoKitten.jpg";
+//import Logo from "../assets/logoKitten.jpg";
 
 export const Header = () => {
   const [hidden, setHidden] = useState(true);
